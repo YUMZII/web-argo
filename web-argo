@@ -15,4 +15,4 @@ spec:
     spec:
       containers:
       - name: web
-        image: oolralra/ipnginx
+        image: choyunji/web-argo:1
