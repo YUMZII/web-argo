@@ -15,4 +15,4 @@ spec:
     spec:
       containers:
       - name: web
-        image: choyunji/web-argo:1
+        image: choyunji/web-argo:2
